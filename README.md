@@ -22,7 +22,7 @@ pillars:
 
 Atop them sits **Symbolfront**, the user's portal: an S-expression form
 of Markdown, a symbolic page system.
-Together they form **symbol-os**: an alternate-universe operating
+Together they form **Symbol-OS**: an alternate-universe operating
 system.
 
 ------------------------------------------------------------------------
