@@ -82,5 +82,5 @@ Rendered output:
 
 **v01**: Symp begins as a **minimalist symbolic kernel** (*symbolback*).  
 **v03**: It grows into a full-stack framework (*symbolfull*).  
-**v05**: And finally, it awakens as **symbol-os**: a chat-like monochrome
+**v05**: And finally, it awakens as **symbol-os**, a chat-like monochrome
 operating system from the world where **symbols won**.
