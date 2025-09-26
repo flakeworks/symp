@@ -80,8 +80,8 @@ Rendered output:
 
 ## 🔮 The Vision
 
-Symp begins as a **minimalist symbolic kernel** (*symbolback*).
-It grows into a full-stack framework (*symbolfull*).
-And finally, it awakens as **symbol-os**:
+Symp begins as a **minimalist symbolic kernel** (*symbolback*).  
+It grows into a full-stack framework (*symbolfull*).  
+And finally, it awakens as **symbol-os**:  
 a chat-like monochrome operating system from the world where **symbols
 won**.
