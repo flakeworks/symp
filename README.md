@@ -6,22 +6,22 @@
 
 ## 📜 What is Symp?
 
-In our timeline, computing rushed toward pixels, sound, and spectacle.\
+In our timeline, computing rushed toward pixels, sound, and spectacle.
 But in another world, history diverged. There, operating systems never
 left the monochrome console --- and yet, the **theory of symbols
 advanced centuries ahead**.
 
 **Symp** is not just a programming language. It is an **artifact from
-that reality**:\
+that reality**:
 a symbolic kernel where all computation flows through three hidden
 pillars:
 
--   **Symbolmatch** → syntax as grammar.\
--   **Symbolverse** → semantics as rewriting.\
+-   **Symbolmatch** → syntax as grammar.
+-   **Symbolverse** → semantics as rewriting.
 -   **Symbolprose** → execution as graphs.
 
 Atop them sits **Symbolfront**, the user's portal: an S-expression form
-of Markdown, a symbolic page system.\
+of Markdown, a symbolic page system.
 Together they form **symbol-os**: an alternate-universe operating
 system.
 
@@ -29,11 +29,11 @@ system.
 
 ## 🌀 What makes Symp different?
 
--   Programs are not *written*. They are **rewritten**.\
+-   Programs are not *written*. They are **rewritten**.
 -   Execution is not a black box --- it's a **graph of edges and
-    instructions**.\
+    instructions**.
 -   Documents are not plain text --- they are **symbolic pages**,
-    capable of hosting both explanation and computation.\
+    capable of hosting both explanation and computation.
 -   The shell is not a utility belt --- it is **Symbolshell**, a
     lightweight scripting framework built from the very pillars of
     symbolic logic.
@@ -80,8 +80,8 @@ Rendered output:
 
 ## 🔮 The Vision
 
-Symp begins as a **minimalist symbolic kernel** (*symbolback*).\
-It grows into a full-stack framework (*symbolfull*).\
-And finally, it awakens as **symbol-os**:\
+Symp begins as a **minimalist symbolic kernel** (*symbolback*).
+It grows into a full-stack framework (*symbolfull*).
+And finally, it awakens as **symbol-os**:
 a chat-like monochrome operating system from the world where **symbols
 won**.
